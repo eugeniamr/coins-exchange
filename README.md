@@ -1,5 +1,7 @@
 # platzi-exchange
 
+My first Vue project from the Basic Vue course on Platzi.
+
 ## Project setup
 ```
 npm install
